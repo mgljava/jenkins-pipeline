@@ -16,4 +16,8 @@ public class App {
   public String sayHello(String name) {
     return "Hello your name is " + name;
   }
+
+  public int add(int a, int b) {
+    return a + b;
+  }
 }
